@@ -1,0 +1,77 @@
+2025-07-21 09:58:30,961 - INFO - --------------- START OF RUN ---------------
+2025-07-21 09:58:30,963 - INFO - Loaded 0 processed UIDs from file
+2025-07-21 09:58:32,535 - INFO - Connected successfully to the email server
+2025-07-21 09:58:32,709 - INFO - Total emails found: 55
+2025-07-21 09:58:32,711 - INFO - Email count to process: 54
+2025-07-21 09:58:32,923 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '1190', 'From': 'DFW', 'To': 'CUN', 'Date': datetime.datetime(2024, 12, 1, 0, 0), 'Total Cost (USD)': 74.5}
+2025-07-21 09:58:33,111 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '1190', 'From': 'DFW', 'To': 'CUN', 'Date': datetime.datetime(2024, 12, 1, 0, 0), 'Total Cost (USD)': 74.5}
+2025-07-21 09:58:33,295 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '0316', 'From': 'CUN', 'To': 'DFW', 'Date': datetime.datetime(2024, 12, 4, 0, 0), 'Total Cost (USD)': 108.93}
+2025-07-21 09:58:33,485 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '0316', 'From': 'CUN', 'To': 'DFW', 'Date': datetime.datetime(2024, 12, 4, 0, 0), 'Total Cost (USD)': 108.93}
+2025-07-21 09:58:33,669 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '0070', 'From': 'DFW', 'To': 'FRA', 'Date': datetime.datetime(2024, 12, 5, 0, 0), 'Total Cost (USD)': 57.8}
+2025-07-21 09:58:33,876 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '0071', 'From': 'FRA', 'To': 'DFW', 'Date': datetime.datetime(2024, 12, 11, 0, 0), 'Total Cost (USD)': 198.61}
+2025-07-21 09:58:34,114 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '1715', 'From': 'DFW', 'To': 'DTW', 'Date': datetime.datetime(2024, 12, 20, 0, 0), 'Total Cost (USD)': 21.27}
+2025-07-21 09:58:34,307 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '1715', 'From': 'DFW', 'To': 'DTW', 'Date': datetime.datetime(2024, 12, 20, 0, 0), 'Total Cost (USD)': 21.27}
+2025-07-21 09:58:34,507 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '0564', 'From': 'DTW', 'To': 'DFW', 'Date': datetime.datetime(2025, 1, 4, 0, 0), 'Total Cost (USD)': 21.47}
+2025-07-21 09:58:34,707 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '3993', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 1, 7, 0, 0), 'Total Cost (USD)': 75.15}
+2025-07-21 09:58:34,915 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '0575', 'From': 'DFW', 'To': 'CLT', 'Date': datetime.datetime(2025, 2, 8, 0, 0), 'Total Cost (USD)': 21.06}
+2025-07-21 09:58:35,105 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '0575', 'From': 'DFW', 'To': 'CLT', 'Date': datetime.datetime(2025, 2, 8, 0, 0), 'Total Cost (USD)': 21.06}
+2025-07-21 09:58:35,298 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '5350', 'From': 'CLT', 'To': 'YUL', 'Date': datetime.datetime(2025, 2, 8, 0, 0), 'Total Cost (USD)': 20.09}
+2025-07-21 09:58:35,482 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '5350', 'From': 'CLT', 'To': 'YUL', 'Date': datetime.datetime(2025, 2, 8, 0, 0), 'Total Cost (USD)': 20.09}
+2025-07-21 09:58:35,676 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '3171', 'From': 'LGA', 'To': 'DFW', 'Date': datetime.datetime(2025, 2, 12, 0, 0), 'Total Cost (USD)': 24.48}
+2025-07-21 09:58:35,875 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '3171', 'From': 'LGA', 'To': 'DFW', 'Date': datetime.datetime(2025, 2, 12, 0, 0), 'Total Cost (USD)': 24.48}
+2025-07-21 09:58:36,070 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '4483', 'From': 'YUL', 'To': 'LGA', 'Date': datetime.datetime(2025, 2, 12, 0, 0), 'Total Cost (USD)': 72.64}
+2025-07-21 09:58:36,605 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '4483', 'From': 'YUL', 'To': 'LGA', 'Date': datetime.datetime(2025, 2, 12, 0, 0), 'Total Cost (USD)': 72.64}
+2025-07-21 09:58:36,814 - INFO - Parsed and added record: {'Traveler': 'PRAKASHAN KOPIVINOPA', 'Flight No': '3993', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 3, 30, 0, 0), 'Total Cost (USD)': 58.82}
+2025-07-21 09:58:37,002 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '1111', 'From': 'DFW', 'To': 'YYZ', 'Date': datetime.datetime(2025, 4, 18, 0, 0), 'Total Cost (USD)': 23.07}
+2025-07-21 09:58:37,185 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '1111', 'From': 'DFW', 'To': 'YYZ', 'Date': datetime.datetime(2025, 4, 18, 0, 0), 'Total Cost (USD)': 23.07}
+2025-07-21 09:58:37,365 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '1111', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 4, 23, 0, 0), 'Total Cost (USD)': 77.07}
+2025-07-21 09:58:37,545 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '1111', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 4, 23, 0, 0), 'Total Cost (USD)': 77.07}
+2025-07-21 09:58:37,767 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '1190', 'From': 'DFW', 'To': 'CUN', 'Date': datetime.datetime(2025, 5, 2, 0, 0), 'Total Cost (USD)': 81.28}
+2025-07-21 09:58:37,960 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '1190', 'From': 'DFW', 'To': 'CUN', 'Date': datetime.datetime(2025, 5, 2, 0, 0), 'Total Cost (USD)': 81.28}
+2025-07-21 09:58:38,147 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '1750', 'From': 'CUN', 'To': 'DFW', 'Date': datetime.datetime(2025, 5, 6, 0, 0), 'Total Cost (USD)': 110.64}
+2025-07-21 09:58:38,325 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '1750', 'From': 'CUN', 'To': 'DFW', 'Date': datetime.datetime(2025, 5, 6, 0, 0), 'Total Cost (USD)': 110.64}
+2025-07-21 09:58:38,512 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '2804', 'From': 'DFW', 'To': 'YYZ', 'Date': datetime.datetime(2025, 5, 7, 0, 0), 'Total Cost (USD)': 43.97}
+2025-07-21 09:58:38,705 - INFO - Parsed and added record: {'Traveler': 'SWETHEECA KOPIVINOPA', 'Flight No': '2804', 'From': 'DFW', 'To': 'YYZ', 'Date': datetime.datetime(2025, 5, 8, 0, 0), 'Total Cost (USD)': 96.21}
+2025-07-21 09:58:38,883 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '2804', 'From': 'DFW', 'To': 'YYZ', 'Date': datetime.datetime(2025, 5, 8, 0, 0), 'Total Cost (USD)': 23.07}
+2025-07-21 09:58:39,075 - INFO - Parsed and added record: {'Traveler': 'PRAKASHAN KOPIVINOPA', 'Flight No': '1993', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 5, 11, 0, 0), 'Total Cost (USD)': 60.26}
+2025-07-21 09:58:39,257 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '1993', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 5, 11, 0, 0), 'Total Cost (USD)': 78.28}
+2025-07-21 09:58:39,451 - INFO - Parsed and added record: {'Traveler': 'KANDASAMY VELUPILLAI', 'Flight No': '1111', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 5, 17, 0, 0), 'Total Cost (USD)': 154.82}
+2025-07-21 09:58:39,641 - INFO - Parsed and added record: {'Traveler': 'KISHOREEKA KOPIVINOPA', 'Flight No': '1111', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 5, 17, 0, 0), 'Total Cost (USD)': 154.82}
+2025-07-21 09:58:39,822 - INFO - Parsed and added record: {'Traveler': 'SWETHEECA KOPIVINOPA', 'Flight No': '1111', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 5, 17, 0, 0), 'Total Cost (USD)': 154.82}
+2025-07-21 09:58:40,016 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '1964', 'From': 'YUL', 'To': 'DFW', 'Date': datetime.datetime(2025, 5, 18, 0, 0), 'Total Cost (USD)': 83.86}
+2025-07-21 09:58:40,194 - INFO - Parsed and added record: {'Traveler': 'KALAMANY KANAGS', 'Flight No': '1964', 'From': 'YUL', 'To': 'DFW', 'Date': datetime.datetime(2025, 5, 18, 0, 0), 'Total Cost (USD)': 175.12}
+2025-07-21 09:58:40,373 - INFO - Parsed and added record: {'Traveler': 'AKSHEN JASIKUMAR', 'Flight No': '2012', 'From': 'ORD', 'To': 'LAX', 'Date': datetime.datetime(2025, 5, 22, 0, 0), 'Total Cost (USD)': 124.64}
+2025-07-21 09:58:40,562 - INFO - Parsed and added record: {'Traveler': 'AKSHEN JASIKUMAR', 'Flight No': '3524', 'From': 'YYZ', 'To': 'ORD', 'Date': datetime.datetime(2025, 5, 22, 0, 0), 'Total Cost (USD)': 112.81}
+2025-07-21 09:58:40,749 - INFO - Parsed and added record: {'Traveler': 'KANDASAMY VELUPILLAI', 'Flight No': '0048', 'From': 'DFW', 'To': 'CDG', 'Date': datetime.datetime(2025, 5, 26, 0, 0), 'Total Cost (USD)': 202.43}
+2025-07-21 09:58:40,929 - INFO - Parsed and added record: {'Traveler': 'AKSHEN JASIKUMAR', 'Flight No': '0383', 'From': 'LAX', 'To': 'ORD', 'Date': datetime.datetime(2025, 5, 27, 0, 0), 'Total Cost (USD)': 124.64}
+2025-07-21 09:58:41,132 - INFO - Parsed and added record: {'Traveler': 'AKSHEN JASIKUMAR', 'Flight No': '3610', 'From': 'ORD', 'To': 'YYZ', 'Date': datetime.datetime(2025, 5, 27, 0, 0), 'Total Cost (USD)': 56.05}
+2025-07-21 09:58:41,340 - INFO - Parsed and added record: {'Traveler': 'SWETHEECA KOPIVINOPA', 'Flight No': '2804', 'From': 'DFW', 'To': 'YYZ', 'Date': datetime.datetime(2025, 5, 29, 0, 0), 'Total Cost (USD)': 96.21}
+2025-07-21 09:58:41,531 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '1963', 'From': 'DFW', 'To': 'YUL', 'Date': datetime.datetime(2025, 5, 29, 0, 0), 'Total Cost (USD)': 25.44}
+2025-07-21 09:58:41,726 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '2804', 'From': 'DFW', 'To': 'YYZ', 'Date': datetime.datetime(2025, 5, 29, 0, 0), 'Total Cost (USD)': 23.07}
+2025-07-21 09:58:41,923 - INFO - Parsed and added record: {'Traveler': 'KALAMANY KANAGS', 'Flight No': '1963', 'From': 'DFW', 'To': 'YUL', 'Date': datetime.datetime(2025, 5, 29, 0, 0), 'Total Cost (USD)': 112.65}
+2025-07-21 09:58:42,107 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '1111', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 6, 2, 0, 0), 'Total Cost (USD)': 78.39}
+2025-07-21 09:58:42,306 - INFO - Parsed and added record: {'Traveler': 'PRAKASHAN KOPIVINOPA', 'Flight No': '1111', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 6, 2, 0, 0), 'Total Cost (USD)': 60.37}
+2025-07-21 09:58:42,511 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '1111', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 6, 2, 0, 0), 'Total Cost (USD)': 78.39}
+2025-07-21 09:58:42,739 - INFO - Parsed and added record: {'Traveler': 'PRAKASHAN KOPIVINOPA', 'Flight No': '1169', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 6, 24, 0, 0), 'Total Cost (USD)': 60.37}
+2025-07-21 09:58:42,942 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '1111', 'From': 'DFW', 'To': 'YYZ', 'Date': datetime.datetime(2025, 6, 26, 0, 0), 'Total Cost (USD)': 23.07}
+2025-07-21 09:58:43,151 - INFO - Parsed and added record: {'Traveler': 'PRAKASHAN KOPIVINOPA', 'Flight No': '1169', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2025, 7, 6, 0, 0), 'Total Cost (USD)': 60.81}
+2025-07-21 09:58:43,329 - INFO - Parsed and added record: {'Traveler': 'BALAGOWRI KANDASAMY', 'Flight No': '2804', 'From': 'DFW', 'To': 'YYZ', 'Date': datetime.datetime(2025, 7, 10, 0, 0), 'Total Cost (USD)': 23.07}
+2025-07-21 09:58:43,511 - INFO - Parsed and added record: {'Traveler': 'KOPIVINOPA KANAGS', 'Flight No': '2804', 'From': 'DFW', 'To': 'YYZ', 'Date': datetime.datetime(2025, 7, 9, 0, 0), 'Total Cost (USD)': 23.07}
+2025-07-21 09:58:43,537 - INFO - Creating new file: /Users/prakashkopi/Documents/Personal Code Projects/travel_mate/excel/AA_Travel_Log_2024.xlsx
+2025-07-21 09:58:43,549 - INFO - Excel file updated: /Users/prakashkopi/Documents/Personal Code Projects/travel_mate/excel/AA_Travel_Log_2024.xlsx
+2025-07-21 09:58:43,550 - INFO - Creating new file: /Users/prakashkopi/Documents/Personal Code Projects/travel_mate/excel/AA_Travel_Log_2025.xlsx
+2025-07-21 09:58:43,564 - INFO - Excel file updated: /Users/prakashkopi/Documents/Personal Code Projects/travel_mate/excel/AA_Travel_Log_2025.xlsx
+2025-07-21 09:58:43,565 - INFO - Total records skipped because they were already processed: 0
+2025-07-21 09:58:43,565 - INFO - Total new records added: 54
+2025-07-21 09:58:43,565 - INFO - --------------- END OF EXECUTION ---------------
+2025-07-21 09:59:27,518 - INFO - --------------- START OF RUN ---------------
+2025-07-21 09:59:27,519 - INFO - Loaded 54 processed UIDs from file
+2025-07-21 09:59:29,144 - INFO - Connected successfully to the email server
+2025-07-21 09:59:29,321 - INFO - Total emails found: 55
+2025-07-21 09:59:29,322 - INFO - Email count to process: 1000
+2025-07-21 09:59:29,535 - INFO - Parsed and added record: {'Traveler': 'PRAKASHAN KOPIVINOPA', 'Flight No': '1111', 'From': 'YYZ', 'To': 'DFW', 'Date': datetime.datetime(2024, 11, 10, 0, 0), 'Total Cost (USD)': 58.57}
+2025-07-21 09:59:29,548 - INFO - Loading existing file: /Users/prakashkopi/Documents/Personal Code Projects/travel_mate/excel/AA_Travel_Log_2024.xlsx
+2025-07-21 09:59:29,556 - INFO - Excel file updated: /Users/prakashkopi/Documents/Personal Code Projects/travel_mate/excel/AA_Travel_Log_2024.xlsx
+2025-07-21 09:59:29,557 - INFO - Total records skipped because they were already processed: 54
+2025-07-21 09:59:29,557 - INFO - Total new records added: 1
+2025-07-21 09:59:29,557 - INFO - --------------- END OF EXECUTION ---------------
