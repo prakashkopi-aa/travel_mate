@@ -1,7 +1,7 @@
 {
     "Read Email": {
         "email_address": "prakashkopi@gmail.com",
-        "password": "zlao rwsn qvjx sylv",
+        "password": "<pass>",
         "imap_server": "imap.gmail.com",
         "count": 1000
     },
@@ -9,10 +9,10 @@
         "smtp_server": "smtp.gmail.com",
         "smtp_port": 465,
         "email_address": "prakashkopi@gmail.com",
-        "email_password": "2695 2411",
+        "email_password": "<pass>",
         "recipient_email": "prakashkopi@gmail.com"
     },
     "Send Grid": {
-        "email_api_key": "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"
+        "email_api_key": "<pass>"
     }
 }
